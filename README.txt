@@ -77,7 +77,7 @@ q_1: ───────────
 c: 2/═══════════
 ----------------
 
-HINT: These rotation operators are the best way to manipulate the probabilities in your superposition.
+HINT: These rotation operators are the best way to manipulate the probabilities in your superposition. Don't be afraid to try out various inputs and see how they change your superposition.
 
 You begin the game with a limited number of operators. When you use an operator, the game will print how many of that operator you have left. What happens if you run out will be discussed below.
 
