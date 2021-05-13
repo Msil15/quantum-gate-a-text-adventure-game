@@ -17,7 +17,7 @@ with open('Blurb.txt') as Blurb_file:
     for line in Blurb_file:
         for word in line.split():
             print(word, end = ' ')
-            #sleep(0.1)
+            sleep(0.1)
 
 print("")
 print("")
