@@ -63,7 +63,7 @@ q_1: ──────────────────
 c: 2/══════════════════
 -------------------------
 
-Other operators in this category include rx, ry, and rz, though these only take 1 positional argument.
+Other operators in this category include rx, ry, and rz, though these only take 1 rotational argument.
 
 ----------------
 rx
