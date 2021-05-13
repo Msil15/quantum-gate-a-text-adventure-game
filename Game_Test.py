@@ -7,7 +7,7 @@ lines = Title_file.readlines()
 
 for line in lines:
     print(line, end="")
-    #sleep(0.3)
+    sleep(0.3)
     
 print("")
 print("")
